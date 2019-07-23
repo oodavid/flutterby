@@ -2,12 +2,14 @@
 
 # Flutterby
 
-Flutterby contains the sources for [David King's YouTube Channel](https://www.youtube.com/channel/UCMBdBkoT5Hg-ZVYmrnPOncg).
+Each [branch](https://github.com/oodavid/flutterby/branches) contains the sources for [my videos on YouTube](https://www.youtube.com/channel/UCMBdBkoT5Hg-ZVYmrnPOncg).
 
-## Using this repo
+1. [![][youtube] Flutter :: From StreamBuilder to MultiProvider](https://youtu.be/budqAnwn740)
 
-Take a look at the [branches](https://github.com/oodavid/flutterby/branches). Each branch contains source code for my YouTube videos.
+1. [![][youtube] Flutter :: Infinite loading and pull-to-refresh - the right way!](https://youtu.be/hbtYcp0Rnp0)
 
-1. ![youtube](img/youtube.png) [Flutter :: Infinite loading and pull-to-refresh - the right way!](https://youtu.be/hbtYcp0Rnp0)
+1. [![][youtube] Flutter :: Show & Hide Passwords - without the overhead!](https://youtu.be/kpaBG_MKgd4) - view the [source code](https://github.com/oodavid/flutterby/tree/3-show-hide-password)
 
-1. ![youtube](img/youtube.png) [Flutter :: From StreamBuilder to MultiProvider](https://youtu.be/budqAnwn740)
+
+
+[youtube]: img/youtube.png
