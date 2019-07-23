@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="120.5999984741211 20.700000762939453 838.800048828125 1038.7000732421875">
+  <defs>
+    <path id="a" d="M959.4 500L679.8 779.7l279.6 279.7H639.9L520 939.5 360.2 779.7 639.9 500h319.5zM639.9 20.7L120.6 540l159.8 159.8 679-679.1H639.9z"/>
+  </defs>
+  <clipPath id="b">
+    <use overflow="visible" xlink:href="#a"/>
+  </clipPath>
+  <g clip-path="url(#b)">
+    <path fill="#39cefd" d="M959.4 500H639.9L360.3 779.7 520 939.5z"/>
+  </g>
+  <defs>
+    <path id="c" d="M959.4 500L679.8 779.7l279.6 279.7H639.9L520 939.5 360.2 779.7 639.9 500h319.5zM639.9 20.7L120.6 540l159.8 159.8 679-679.1H639.9z"/>
+  </defs>
+  <clipPath id="d">
+    <use overflow="visible" xlink:href="#c"/>
+  </clipPath>
+  <path fill="#39cefd" d="M280.4 699.8L120.6 540 639.9 20.7h319.5z" clip-path="url(#d)"/>
+  <g>
+    <defs>
+      <path id="e" d="M959.4 500L679.8 779.7l279.6 279.7H639.9L520 939.5 360.2 779.7 639.9 500h319.5zM639.9 20.7L120.6 540l159.8 159.8 679-679.1H639.9z"/>
+    </defs>
+    <clipPath id="f">
+      <use overflow="visible" xlink:href="#e"/>
+    </clipPath>
+    <path fill="#03569b" d="M520 939.5l119.9 119.8h319.5L679.8 779.7z" clip-path="url(#f)"/>
+  </g>
+  <g>
+    <defs>
+      <path id="g" d="M959.4 500L679.8 779.7l279.6 279.7H639.9L520 939.5 360.2 779.7 639.9 500h319.5zM639.9 20.7L120.6 540l159.8 159.8 679-679.1H639.9z"/>
+    </defs>
+    <clipPath id="h">
+      <use overflow="visible" xlink:href="#g"/>
+    </clipPath>
+    <linearGradient id="i" x1="9514.54" x2="9990.6" y1="-6371.355" y2="-5895.295" gradientTransform="matrix(.25 0 0 -.25 -1812 -622.5)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#1a237e" stop-opacity=".4"/>
+      <stop offset="1" stop-color="#1a237e" stop-opacity="0"/>
+    </linearGradient>
+    <path fill="url(#i)" d="M520 939.5l237-82.1-77.2-77.7z" clip-path="url(#h)"/>
+  </g>
+  <g>
+    <defs>
+      <path id="j" d="M959.4 500L679.8 779.7l279.6 279.7H639.9L520 939.5 360.2 779.7 639.9 500h319.5zM639.9 20.7L120.6 540l159.8 159.8 679-679.1H639.9z"/>
+    </defs>
+    <clipPath id="k">
+      <use overflow="visible" xlink:href="#j"/>
+    </clipPath>
+    <g clip-path="url(#k)">
+      <path fill="#16b9fd" d="M360.282 779.645L520.086 619.84l159.805 159.805-159.805 159.804z"/>
+    </g>
+  </g>
+  <radialGradient id="l" cx="7824.659" cy="-2855.979" r="5082.889" gradientTransform="matrix(.25 0 0 -.25 -1812 -622.5)" gradientUnits="userSpaceOnUse">
+    <stop offset="0" stop-color="#fff" stop-opacity=".1"/>
+    <stop offset="1" stop-color="#fff" stop-opacity="0"/>
+  </radialGradient>
+  <path fill="url(#l)" d="M959.4 500L679.8 779.7l279.6 279.7H639.9L520 939.5 360.2 779.7 639.9 500h319.5zM639.9 20.7L120.6 540l159.8 159.8 679-679.1H639.9z"/>
+</svg>
