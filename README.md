@@ -6,10 +6,14 @@ Each [branch](https://github.com/oodavid/flutterby/branches) contains the source
 
 1. [![][youtube] Flutter :: From StreamBuilder to MultiProvider](https://youtu.be/budqAnwn740)
 
-1. [![][youtube] Flutter :: Infinite loading and pull-to-refresh - the right way!](https://youtu.be/hbtYcp0Rnp0)
+1. [![][youtube] Flutter :: Infinite loading and pull-to-refresh - the right way!](https://youtu.be/hbtYcp0Rnp0) - view the [source code](https://github.com/oodavid/flutterby/tree/2-infinite-loading-pull-to-refresh)
 
 1. [![][youtube] Flutter :: Show & Hide Passwords - without the overhead!](https://youtu.be/kpaBG_MKgd4) - view the [source code](https://github.com/oodavid/flutterby/tree/3-show-hide-password)
 
+---
+
+[![Infinite loading and pull-to-refresh](img/2-infinite-loading-pull-to-refresh.gif)](https://youtu.be/hbtYcp0Rnp0)
+[![Show & Hide Passwords](img/3-show-hide-password.gif)](https://youtu.be/kpaBG_MKgd4)
 
 
 [youtube]: img/youtube.png
