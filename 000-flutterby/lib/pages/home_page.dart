@@ -28,7 +28,7 @@ class HomePage extends StatelessWidget {
               ),
               SizedBox(height: 8.0),
               Text(
-                'Take a look at the git branches. Each branch contains source code for my YouTube videos.',
+                'Take a look at the git repo. Each directory contains source code for my YouTube videos.',
                 style: Theme.of(context).textTheme.title,
                 textAlign: TextAlign.center,
               ),
