@@ -14,12 +14,15 @@ Each directroy contains the sources for [my videos on YouTube](https://www.youtu
 
 1. [![][youtube] Flutter :: The Domino Effect. Lazy animations that look great!!](https://youtu.be/EVFawsxBafo) - view the [source code](/005-domino-animations)
 
+1. [![][youtube] Flutter :: This Animation playhead makes great animations!!](https://www.youtube.com/channel/UCMBdBkoT5Hg-ZVYmrnPOncg/) - view the [source code](/006-animation-playhead)
+
 ---
 
 [<img width="210" src="assets/002-infinite-loading-pull-to-refresh.gif" alt="Infinite loading and pull-to-refresh" />](https://youtu.be/hbtYcp0Rnp0)
 [<img width="210" src="assets/003-show-hide-password.gif" alt="Show & Hide Passwords" />](https://youtu.be/kpaBG_MKgd4)
 [<img width="210" src="assets/004-beast-lists.gif" alt="Beast Lists" />](https://youtu.be/CRGvMsZU7Ac)
 [<img width="210" src="assets/005-domino-animations.gif" alt="Domino Animations" />](https://youtu.be/EVFawsxBafo)
+[<img width="210" src="assets/006-animatio-playhead.gif" alt="Animation Playhead" />](https://www.youtube.com/channel/UCMBdBkoT5Hg-ZVYmrnPOncg/)
 
 
 [youtube]: assets/youtube.png
