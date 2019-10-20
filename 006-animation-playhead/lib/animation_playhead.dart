@@ -1,7 +1,3 @@
-// This animation is taken directly from
-//  the Flutter docs, here:
-// https://flutter.dev/docs/development/ui/animations/staggered-animations
-
 import 'package:flutter/material.dart';
 
 class AnimationPlayhead extends StatefulWidget {
