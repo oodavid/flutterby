@@ -14,7 +14,7 @@ Each directroy contains the sources for [my videos on YouTube](https://www.youtu
 
 1. [![][youtube] Flutter :: The Domino Effect. Lazy animations that look great!!](https://youtu.be/EVFawsxBafo) - view the [source code](/005-domino-animations)
 
-1. [![][youtube] Flutter :: The Animation playhead is so fun!](https://www.youtu.be/P-73Hv1vjJU) - view the [source code](/006-animation-playhead)
+1. [![][youtube] Flutter :: The Animation playhead is so fun!](https://youtu.be/P-73Hv1vjJU) - view the [source code](/006-animation-playhead)
 
 1. [![][youtube] Flutter :: BEAST DevLog :: Shuffle Workouts](https://youtu.be/NbGmYedrI1c)
 
@@ -24,8 +24,8 @@ Each directroy contains the sources for [my videos on YouTube](https://www.youtu
 [<img width="210" src="assets/003-show-hide-password.gif" alt="Show & Hide Passwords" />](https://youtu.be/kpaBG_MKgd4)
 [<img width="210" src="assets/004-beast-lists.gif" alt="Beast Lists" />](https://youtu.be/CRGvMsZU7Ac)
 [<img width="210" src="assets/005-domino-animations.gif" alt="Domino Animations" />](https://youtu.be/EVFawsxBafo)
-[<img width="210" src="assets/006-animation-playhead.gif" alt="Animation Playhead" />](https://www.youtu.be/P-73Hv1vjJU)
-[<img width="210" src="assets/008-shuffle-workouts.gif" alt="Animation Playhead" />](https://www.youtu.be/NbGmYedrI1c)
+[<img width="210" src="assets/006-animation-playhead.gif" alt="Animation Playhead" />](https://youtu.be/P-73Hv1vjJU)
+[<img width="210" src="assets/008-shuffle-workouts.gif" alt="Animation Playhead" />](https://youtu.be/NbGmYedrI1c)
 
 
 [youtube]: assets/youtube.png
