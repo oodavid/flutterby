@@ -41,7 +41,7 @@
       z-index: 999999;
       /* filter: hue-rotate(215deg); */
     }
-    .title {
+    #title {
       font-family: 'Roboto Condensed', sans-serif;
       position: absolute;
       z-index: 9999999;
@@ -51,9 +51,8 @@
       margin-top: -0.3em;
       transform: rotate(-4deg);
       transform-origin: top right;
-      /* border: 1vh solid #ecb43e; */
     }
-    .title div {
+    #title div {
       display: inline-block;
       padding: 0vh 2vh;
       margin-bottom: 3vh;
@@ -73,10 +72,27 @@
       transform-origin: top center;
     }
     #mobile img {
+      width: 305px;
       position: absolute;
       top: 7.8%;
       left: 50%;
       transform: translate(-50%, 0);
+    }
+    #devlog {
+      display: none;
+      font-family: 'Roboto Condensed', sans-serif;
+      position: absolute;
+      z-index: 99999999;
+      bottom: 7vh;
+      left: 11vh;
+      font-size: 10vh;
+      margin-top: -0.3em;
+      padding: 0vh 1vh;
+      transform: rotate(-4deg);
+      transform-origin: top right;
+      background: black;
+      color: white;
+      border: 0.5vh solid #b73003;
     }
     #me {
       position: absolute;
@@ -98,12 +114,10 @@
     }
     body.beast #logo,
     body.beast #logo-bg,
-    body.beast #editor {
-      filter: invert(1);
-    }
-    body.beast #mobile {
-      filter: drop-shadow(0px 0px 3vh #9e2f06);
-    }
+    body.beast #editor { filter: invert(1); }
+    body.beast #mobile { filter: drop-shadow(0 0 2vh #134BC1) drop-shadow(0 0 2vh #134BC1); }
+    body.beast #devlog { display: block; }
+    /* body.beast #title { top: 12vh; } */
   </style>
   <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:300,300i,400,400i,700,700i&display=swap" rel="stylesheet">
   <script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.4.5/ace.js"></script>
@@ -118,12 +132,13 @@
   <div id="stage">
     <div id="logo-bg"></div>
     <img id="logo" src="./flutter.svg">
-    <div class="title" contenteditable spellcheck="false">
+    <div id="title" contenteditable spellcheck="false">
       <div>SH** YOUR PASSWORD</div>
     </div>
     <div id="mobile">
       <img src="./app.png">
     </div>
+    <div id="devlog">💪 BEAST DEVLOG</div>
     <div id="me" onclick="toggleBeast();"></div>
     <div id="editor">import 'package:beast/shared/countdown.dart';
 import 'package:beast/shared/next_up.dart';
