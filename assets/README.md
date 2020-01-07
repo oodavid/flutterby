@@ -13,4 +13,4 @@
 
 ### LICEcap alignment
 
-<img src="LICEcap.gif" />
+<img src="LICEcap.png" />
